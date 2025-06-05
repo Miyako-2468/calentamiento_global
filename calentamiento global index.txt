@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calentamiento Global</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5dc; /* Color claro */
+            text-align: center;
+            margin: 20px;
+        }
+        marquee {
+            font-size: 28px;
+            color: rgb(255, 69, 0); /* Amarillo rojizo */
+            font-weight: bold;
+        }
+        .tema {
+            color: blue;
+            font-weight: bold;
+            text-align: center;
+        }
+        p {
+            color: black;
+            font-size: 16px;
+            text-align: justify;
+            margin: 10px 50px;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        a {
+            color: rgb(255, 69, 0);
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <marquee>Calentamiento Global</marquee>
+
+    <h2 class="tema">¿Qué es el Calentamiento Global?</h2>
+    <p>El calentamiento global es el incremento de la temperatura media de la Tierra debido a la acumulación excesiva de gases de efecto invernadero en la atmósfera. Estos gases, como el dióxido de carbono (CO₂), el metano (CH₄) y los óxidos de nitrógeno, atrapan el calor del sol, provocando un aumento en la temperatura global.</p>
+
+    <h2 class="tema">Causas del Calentamiento Global</h2>
+    <p>El calentamiento global es consecuencia de varias actividades humanas, entre ellas:</p>
+    <ul>
+        <li><strong>Uso de combustibles fósiles:</strong> La quema de carbón, petróleo y gas para obtener energía produce grandes cantidades de CO₂.</li>
+        <li><strong>Deforestación:</strong> La tala de árboles reduce la capacidad de absorción de CO₂, aumentando su concentración en la atmósfera.</li>
+        <li><strong>Industria y contaminación:</strong> La producción industrial genera gases de efecto invernadero que contribuyen al calentamiento.</li>
+        <li><strong>Ganadería:</strong> La producción de carne genera metano, un gas que es hasta 25 veces más potente que el CO₂ en el calentamiento global.</li>
+    </ul>
+
+<div class="centro">
+<img src="images.png" width="500">
+</div>
+
+    <h2 class="tema">Consecuencias del Calentamiento Global</h2>
+    <p>Las consecuencias son cada vez más evidentes y afectan tanto al medio ambiente como a la sociedad:</p>
+    <ul>
+        <li><strong>Aumento del nivel del mar:</strong> El derretimiento de los glaciares y polos provoca inundaciones en zonas costeras.</li>
+        <li><strong>Eventos climáticos extremos:</strong> Huracanes, sequías e incendios forestales se han intensificado debido al calentamiento global.</li>
+        <li><strong>Pérdida de biodiversidad:</strong> El cambio climático altera los ecosistemas y pone en peligro a muchas especies.</li>
+        <li><strong>Impacto en la salud humana:</strong> Alergias, enfermedades respiratorias y estrés térmico aumentan con temperaturas extremas.</li>
+    </ul>
+
+    <h2 class="tema">¿Cómo podemos prevenir el Calentamiento Global?</h2>
+    <p>Algunas acciones clave para reducir el calentamiento global incluyen:</p>
+    <ul>
+        <li><strong>Uso de energía renovable:</strong> Optar por fuentes de energía limpias como la solar y la eólica ayuda a reducir emisiones de CO₂.</li>
+        <li><strong>Reforestación:</strong> Plantar árboles ayuda a absorber carbono y mejorar la calidad del aire.</li>
+        <li><strong>Reducción del consumo energético:</strong> Apagar luces innecesarias y mejorar la eficiencia de los electrodomésticos disminuye emisiones.</li>
+        <li><strong>Promoción de transporte sostenible:</strong> Usar bicicletas, transporte público o vehículos eléctricos ayuda a reducir la contaminación.</li>
+    </ul>
+
+    <table>
+    <tr>
+        <th>Acción</th>
+        <th>Impacto</th>
+        <th>Ejemplo</th>
+    </tr>
+    <tr>
+        <td>Uso de energía renovable</td>
+        <td>Reduce las emisiones de CO₂</td>
+        <td>Instalación de paneles solares en hogares y empresas</td>
+    </tr>
+    <tr>
+        <td>Reforestación</td>
+        <td>Absorbe el dióxido de carbono y protege la biodiversidad</td>
+        <td>Programas de reforestación en zonas afectadas por la deforestación</td>
+    </tr>
+    <tr>
+        <td>Uso de transporte sostenible</td>
+        <td>Disminuye la contaminación del aire y reduce el consumo de combustibles fósiles</td>
+        <td>Utilización de bicicletas, transporte público y autos eléctricos</td>
+    </tr>
+    <tr>
+        <td>Reducción del consumo de plásticos</td>
+        <td>Disminuye la contaminación ambiental y protege los ecosistemas marinos</td>
+        <td>Uso de bolsas reutilizables y productos biodegradables</td>
+    </tr>
+    <tr>
+        <td>Optimización del consumo de agua</td>
+        <td>Conserva recursos naturales y reduce la presión sobre los ecosistemas</td>
+        <td>Instalación de sistemas de recolección de agua de lluvia</td>
+    </tr>
+    <tr>
+        <td>Eficiencia energética en el hogar</td>
+        <td>Reduce el consumo eléctrico y las emisiones de gases</td>
+        <td>Uso de bombillas LED y electrodomésticos eficientes</td>
+    </tr>
+    <tr>
+        <td>Promoción de una dieta sostenible</td>
+        <td>Disminuye la huella de carbono de la producción de alimentos</td>
+        <td>Consumo de alimentos locales y reducción del consumo de carne</td>
+    </tr>
+    <tr>
+        <td>Educación ambiental</td>
+        <td>Genera conciencia sobre la protección del planeta</td>
+        <td>Campañas en escuelas y comunidades sobre reciclaje y conservación</td>
+    </tr>
+    <tr>
+        <td>Políticas gubernamentales</td>
+        <td>Establecen regulaciones para la reducción de emisiones</td>
+        <td>Normativas para reducir la contaminación industrial</td>
+    </tr>
+</table>
+  
+
+    <img src="calentamiento global.png" width="300">
+
+<div class="centro">
+    <p>Checa para mas información: 
+        <a href="https://youtu.be/F2GCrL-K4t0?si=hu3b0OL1boY11NeA"> calentamiento global </a>
+    </p>
+
+<audio controls autoplay>
+    <source src="C:\Users\Raquel\Desktop\A Monster In Paris.  Sean Lennon [Traducción al Español].mp3" type="audio/mpeg">
+</audio>
+
+    </div>
+
+</body>
+</html>
